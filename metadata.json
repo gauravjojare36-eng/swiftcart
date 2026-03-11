@@ -1,0 +1,5 @@
+{
+  "name": "SwiftCart Pro",
+  "description": "A production-ready, high-performance E-commerce platform with AI recommendations, real-time stock updates, and secure payments.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
